@@ -38,9 +38,9 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Reddit",
-      icon: "glasses",
-      link: "https://reddit.com/",
+      name: "GMail",
+      icon: "mail",
+      link: "https://gmail.com/",
     },
     {
       id: "3",

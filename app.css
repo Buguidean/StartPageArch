@@ -178,7 +178,7 @@ body {
   height: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
   grid-gap: 30px;
   padding: 20px;
 }
@@ -188,7 +188,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  grid-row : 2;
+  grid-row : 1;
   grid-column: 1;
 }
 
@@ -199,11 +199,11 @@ body {
 }
 
 .button__1 {
-  grid-row: 2;
+  grid-row: 1;
   grid-column: 2;
 }
 .button__2 {
-  grid-row: 2;
+  grid-row: 1;
   grid-column: 3;
 }
 

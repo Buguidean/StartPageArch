@@ -171,6 +171,7 @@ body {
   /* grid-gap: 1.5rem; */
   grid-row: 3 / span 1;
   grid-column: 1 / span 2;
+  transform: translateY(10px);
 }
 
 .buttonsContainer {

@@ -38,33 +38,15 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Facebook",
-      icon: "facebook",
-      link: "https://facebook.com/",
+      name: "Reddit",
+      icon: "reddit",
+      link: "https://reddit.com/",
     },
     {
       id: "3",
-      name: "Reddit",
-      icon: "glasses",
-      link: "https://reddit.com",
-    },
-    {
-      id: "4",
       name: "Github",
       icon: "github",
       link: "https://github.com",
-    },
-    {
-      id: "5",
-      name: "X",
-      icon: "twitter",
-      link: "https://x.com",
-    },
-    {
-      id: "6",
-      name: "Zalo",
-      icon: "message-circle-heart",
-      link: "https://chat.zalo.me/",
-    },
+    },  
   ],
 };

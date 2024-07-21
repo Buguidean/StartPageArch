@@ -204,10 +204,6 @@ body {
   grid-row: 1;
   grid-column: 2;
 }
-.button__3 {
-  grid-row: 1;
-  grid-column: 3;
-}
 
 .button:hover {
   background-color: var(--accent);
